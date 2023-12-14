@@ -1,7 +1,8 @@
-package com.example.goshmak
+package com.example.goshmak.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.goshmak.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
